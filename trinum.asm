@@ -1,5 +1,4 @@
 #############################################################################
-# Lab 8
 # Author: Maximilian Patterson
 # Description: Calculates if a user input integer is a triangle number or not
 #############################################################################
